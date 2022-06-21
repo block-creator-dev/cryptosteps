@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
@@ -67,9 +72,7 @@ export default function Home() {
     </div>
   )
 }
-<!DOCTYPE html>
-<html>
-<head>
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 <body>
